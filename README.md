@@ -7,8 +7,6 @@
   
    ## 🛠 Tech Stack 🛠 
   
-  Techs that I've used at least once
-  
   
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotiln-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
@@ -20,12 +18,12 @@
 
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mySQL&logoColor=white"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
-
+<!--
  <img src="https://img.shields.io/badge/npm-CB38370?style=flat-square&logo=npm&logoColor=white"/>
  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"/>
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <br/><br/>
-  
+  -->
   <br>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ygreenb&show_icons=true&theme=panda"/></a>
       <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygreenb&layout=compact&theme=panda"/></a>
