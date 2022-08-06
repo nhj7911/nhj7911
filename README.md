@@ -1,11 +1,11 @@
-<div align="center">
+<div>
 
   <!--
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fygreenb&count_bg=%233F3F3F&title_bg=%23181717&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://github.com/ygreenb)
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhu-coding.tistory.com&count_bg=%233F3F3F&title_bg=%23FFD500&icon=bitdefender.svg&icon_color=E5511E&title=Tistory&edge_flat=false)](https://hu-coding.tistory.com/)
 -->
   
-   ## 🛠 Tech Stack 🛠 
+   # 🛠 Tech Stack 🛠 
   
   
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
@@ -18,12 +18,8 @@
 
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mySQL&logoColor=white"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
-<!--
- <img src="https://img.shields.io/badge/npm-CB38370?style=flat-square&logo=npm&logoColor=white"/>
- <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"/>
- <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <br/><br/>
-  -->
-  <br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ygreenb&show_icons=true&theme=panda"/></a>
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygreenb&layout=compact&theme=panda"/></a>
+
+<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ygreenb&show_icons=true&theme=panda"/><br/><br/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygreenb&layout=compact&theme=panda"/>
