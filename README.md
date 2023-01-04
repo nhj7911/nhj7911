@@ -5,7 +5,7 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhu-coding.tistory.com&count_bg=%233F3F3F&title_bg=%23FFD500&icon=bitdefender.svg&icon_color=E5511E&title=Tistory&edge_flat=false)](https://hu-coding.tistory.com/)
 -->
   
-   # 🛠 Tech Stack 🛠 
+<!--    # 🛠 Tech Stack 🛠 
   
   
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
@@ -22,4 +22,4 @@
 <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ygreenb&show_icons=true&theme=panda"/><br/><br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygreenb&layout=compact&theme=panda"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygreenb&layout=compact&theme=panda"/> -->
